@@ -1,0 +1,326 @@
+.pantalla-gastos-fijos-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pantalla-gastos-fijos-pantalla-gastos-fijos {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pantalla-gastos-fijos-rectangle35 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 90px;
+  position: absolute;
+}
+.pantalla-gastos-fijos-text {
+  top: 30px;
+  left: 1218px;
+  color: rgba(255, 255, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-fijos-text02 {
+  top: 30px;
+  left: 1048px;
+  color: rgba(255, 255, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-fijos-text04 {
+  top: 30px;
+  left: 848px;
+  color: rgba(255, 255, 255, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-fijos-diseosinttulo14button {
+  top: 20px;
+  left: 14px;
+  width: 77px;
+  height: 50px;
+  position: absolute;
+}
+.pantalla-gastos-fijos-diseosinttulo4svg {
+  top: 157px;
+  left: 681px;
+  width: 733px;
+  height: 259px;
+  position: absolute;
+}
+.pantalla-gastos-fijos-text06 {
+  top: 330px;
+  left: 281px;
+  color: rgba(0, 0, 0, 1);
+  width: 400px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-fijos-text08 {
+  top: 448px;
+  left: 188px;
+  color: rgba(0, 0, 0, 1);
+  width: 532px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-fijos-text10 {
+  top: 735px;
+  left: 188px;
+  color: rgba(0, 0, 0, 1);
+  width: 499px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-fijos-text12 {
+  top: 592px;
+  left: 219px;
+  color: rgba(255, 255, 255, 1);
+  width: 181px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-fijos-text14 {
+  top: 595px;
+  left: 528px;
+  color: rgba(255, 255, 255, 1);
+  width: 181px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-fijos-text16 {
+  top: 595px;
+  left: 219px;
+  color: rgba(255, 255, 255, 1);
+  width: 181px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-fijos-rectangle32input {
+  top: 582px;
+  left: 182px;
+  width: 521px;
+  height: 41px;
+  position: absolute;
+  border-radius: 5px;
+}
+.pantalla-gastos-fijos-text18 {
+  top: 592px;
+  left: 189px;
+  color: rgba(0, 0, 0, 0.5);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-fijos-text19 {
+  top: 797px;
+  left: 219px;
+  color: rgba(255, 255, 255, 1);
+  width: 181px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-fijos-text21 {
+  top: 801px;
+  left: 528px;
+  color: rgba(255, 255, 255, 1);
+  width: 181px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-fijos-text23 {
+  top: 801px;
+  left: 219px;
+  color: rgba(255, 255, 255, 1);
+  width: 181px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-fijos-rectangle33input {
+  top: 808px;
+  left: 182px;
+  width: 521px;
+  height: 41px;
+  position: absolute;
+  border-radius: 5px;
+}
+.pantalla-gastos-fijos-text25 {
+  top: 817px;
+  left: 188px;
+  color: rgba(0, 0, 0, 0.5);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-fijos-text26 {
+  top: 216px;
+  left: 411px;
+  color: rgba(0, 0, 0, 1);
+  width: 211px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-fijos-rectangle55 {
+  top: 145px;
+  left: 182px;
+  width: 472px;
+  height: 153px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+}
+.pantalla-gastos-fijos-rectangle56 {
+  top: 145px;
+  left: 182px;
+  width: 142px;
+  height: 153px;
+  position: absolute;
+  border-radius: 5px 0 0 5px;
+}
+.pantalla-gastos-fijos-ahorro5 {
+  top: 162px;
+  left: 212px;
+  width: 80px;
+  height: 121px;
+  position: absolute;
+}
+.pantalla-gastos-fijos-rectangle551 {
+  top: 1339.461669921875px;
+  left: 1255.013427734375px;
+  width: 334px;
+  height: 844px;
+  position: absolute;
+}

@@ -1,0 +1,394 @@
+.pantalla-iniciodesesin1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pantalla-iniciodesesin1-pantalla-iniciodesesin {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pantalla-iniciodesesin1-rectangle4 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 90px;
+  position: absolute;
+}
+.pantalla-iniciodesesin1-rectangle5 {
+  top: 228px;
+  left: 1502px;
+  width: 1440px;
+  height: 90px;
+  position: absolute;
+}
+.pantalla-iniciodesesin1-text {
+  top: 30px;
+  left: 742px;
+  color: rgba(255, 255, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-iniciodesesin1-text02 {
+  top: 30px;
+  left: 1112px;
+  color: rgba(255, 255, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-iniciodesesin1-text04 {
+  top: 30px;
+  left: 912px;
+  color: rgba(255, 255, 255, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-iniciodesesin1-userbutton {
+  top: 0px;
+  left: 1346px;
+  width: 40px;
+  height: 90px;
+  position: absolute;
+}
+.pantalla-iniciodesesin1-diseosinttulo1button {
+  top: 0px;
+  left: 270px;
+  width: 364px;
+  height: 90px;
+  position: absolute;
+}
+.pantalla-iniciodesesin1-frame1 {
+  top: 98px;
+  left: 0px;
+  width: 1440px;
+  height: 894px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pantalla-iniciodesesin1-image18 {
+  top: 77px;
+  left: 335px;
+  width: 1149px;
+  height: 767px;
+  position: absolute;
+  border-radius: 91px;
+}
+.pantalla-iniciodesesin1-rectangle6 {
+  top: 220px;
+  left: -99px;
+  width: 675px;
+  height: 550px;
+  position: absolute;
+  border-radius: 65px;
+}
+.pantalla-iniciodesesin1-text06 {
+  top: 290px;
+  left: 117px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-iniciodesesin1-text11 {
+  top: 1034px;
+  left: 243px;
+  color: rgba(0, 81, 12, 1);
+  width: 954px;
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-iniciodesesin1-text13 {
+  top: 1752px;
+  left: 40px;
+  color: rgba(0, 81, 12, 1);
+  width: 516px;
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-iniciodesesin1-text15 {
+  top: 1177px;
+  left: 322px;
+  color: rgba(0, 0, 0, 1);
+  width: 796px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: ExtraLight;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-iniciodesesin1-text17 {
+  top: 1845px;
+  left: 155px;
+  color: rgba(0, 0, 0, 1);
+  width: 548px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-iniciodesesin1-text19 {
+  top: 1548px;
+  left: 155px;
+  color: rgba(0, 0, 0, 1);
+  width: 324px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: ExtraLight;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-iniciodesesin1-text21 {
+  top: 1548px;
+  left: 558px;
+  color: rgba(0, 0, 0, 1);
+  width: 324px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: ExtraLight;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-iniciodesesin1-text23 {
+  top: 1548px;
+  left: 936px;
+  color: rgba(0, 0, 0, 1);
+  width: 324px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: ExtraLight;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-iniciodesesin1-text25 {
+  top: 485px;
+  left: 89px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: italic;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: condensed;
+  text-decoration: none;
+}
+.pantalla-iniciodesesin1-rectangle2button {
+  top: 627px;
+  left: 209px;
+  width: 185px;
+  height: 46px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 20px;
+}
+.pantalla-iniciodesesin1-banknotes {
+  top: 1421px;
+  left: 675px;
+  width: 90px;
+  height: 90px;
+  position: absolute;
+}
+.pantalla-iniciodesesin1-combo-chart {
+  top: 1421px;
+  left: 1073px;
+  width: 90px;
+  height: 90px;
+  position: absolute;
+}
+.pantalla-iniciodesesin1-home {
+  top: 1421px;
+  left: 277px;
+  width: 90px;
+  height: 90px;
+  position: absolute;
+}
+.pantalla-iniciodesesin1-ok {
+  top: 1815px;
+  left: 105px;
+  width: 50px;
+  height: 90px;
+  position: absolute;
+}
+.pantalla-iniciodesesin1-text27 {
+  top: 1935px;
+  left: 155px;
+  color: rgba(0, 0, 0, 1);
+  width: 548px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-iniciodesesin1-ok1 {
+  top: 1905px;
+  left: 105px;
+  width: 50px;
+  height: 90px;
+  position: absolute;
+}
+.pantalla-iniciodesesin1-text29 {
+  top: 2025px;
+  left: 155px;
+  color: rgba(0, 0, 0, 1);
+  width: 548px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-iniciodesesin1-ok2 {
+  top: 1995px;
+  left: 105px;
+  width: 50px;
+  height: 90px;
+  position: absolute;
+}
+.pantalla-iniciodesesin1-text31 {
+  top: 1845px;
+  left: 676px;
+  color: rgba(0, 0, 0, 1);
+  width: 548px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-iniciodesesin1-ok3 {
+  top: 1815px;
+  left: 626px;
+  width: 50px;
+  height: 90px;
+  position: absolute;
+}
+.pantalla-iniciodesesin1-image19 {
+  top: 1676px;
+  left: 1026px;
+  width: 437px;
+  height: 458px;
+  position: absolute;
+}
+.pantalla-iniciodesesin1-text33 {
+  top: 640px;
+  left: 235px;
+  color: rgba(0, 81, 12, 1);
+  width: 133px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

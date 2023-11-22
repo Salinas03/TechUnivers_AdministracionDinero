@@ -1,0 +1,235 @@
+.pantalla-tipodesueldo-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pantalla-tipodesueldo-pantalla-tipodesueldo {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pantalla-tipodesueldo-ellipse1 {
+  top: 196px;
+  left: 886px;
+  width: 237px;
+  height: 203px;
+  position: absolute;
+}
+.pantalla-tipodesueldo-ellipse3 {
+  top: 210.88623046875px;
+  left: 891.1755981445312px;
+  width: 217px;
+  height: 188px;
+  position: absolute;
+}
+.pantalla-tipodesueldo-image17 {
+  top: 239.13623046875px;
+  left: 954.7662353515625px;
+  width: 104px;
+  height: 117px;
+  position: absolute;
+}
+.pantalla-tipodesueldo-rectangle21 {
+  top: 484px;
+  left: 695px;
+  width: 648px;
+  height: 126px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 4px;
+  border-radius: 5px;
+}
+.pantalla-tipodesueldo-text {
+  top: 506px;
+  left: 739px;
+  color: rgba(0, 0, 0, 1);
+  width: 548px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-tipodesueldo-text05 {
+  top: 692px;
+  left: 925px;
+  color: rgba(0, 0, 0, 1);
+  width: 515px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-tipodesueldo-rectangle2button {
+  top: 748px;
+  left: 755px;
+  width: 185px;
+  height: 46px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 20px;
+}
+.pantalla-tipodesueldo-text07 {
+  top: 761px;
+  left: 836px;
+  color: rgba(255, 255, 255, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-tipodesueldo-text09 {
+  top: 733px;
+  left: 562px;
+  color: rgba(255, 255, 255, 1);
+  width: 51px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-tipodesueldo-rectangle22button {
+  top: 748px;
+  left: 1104px;
+  width: 183px;
+  height: 46px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 20px;
+}
+.pantalla-tipodesueldo-text11 {
+  top: 762px;
+  left: 1165px;
+  color: rgba(255, 255, 255, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-tipodesueldo-image4svg {
+  top: 809px;
+  left: 934px;
+  width: 170px;
+  height: 185px;
+  position: absolute;
+}
+.pantalla-tipodesueldo-rectangle6 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 90px;
+  position: absolute;
+}
+.pantalla-tipodesueldo-text13 {
+  top: 30px;
+  left: 1218px;
+  color: rgba(255, 255, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-tipodesueldo-text15 {
+  top: 30px;
+  left: 1048px;
+  color: rgba(255, 255, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-tipodesueldo-text17 {
+  top: 30px;
+  left: 848px;
+  color: rgba(255, 255, 255, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-tipodesueldo-diseosinttulo12button {
+  top: 20px;
+  left: 14px;
+  width: 77px;
+  height: 50px;
+  position: absolute;
+}
+.pantalla-tipodesueldo-rectangle53 {
+  top: 904.7114868164062px;
+  left: -212px;
+  width: 297px;
+  height: 1027px;
+  position: absolute;
+}
+.pantalla-tipodesueldo-diseosinttulo5svg {
+  top: 197px;
+  left: -13px;
+  width: 733px;
+  height: 259px;
+  position: absolute;
+}

@@ -1,0 +1,305 @@
+.pantalla-plandeahorro-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pantalla-plandeahorro-pantalla-plandeahorro {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pantalla-plandeahorro-text {
+  top: 249px;
+  left: 931px;
+  color: rgba(0, 0, 0, 1);
+  width: 237px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-plandeahorro-text02 {
+  top: 303px;
+  left: 902px;
+  color: rgba(0, 0, 0, 1);
+  width: 328px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-plandeahorro-rectangle21 {
+  top: 240px;
+  left: 743px;
+  width: 502px;
+  height: 144px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+}
+.pantalla-plandeahorro-rectangle22 {
+  top: 240px;
+  left: 743px;
+  width: 151px;
+  height: 144px;
+  position: absolute;
+  border-radius: 5px 0 0 5px;
+}
+.pantalla-plandeahorro-line5 {
+  top: 281px;
+  left: 894px;
+  width: 347px;
+  height: 1px;
+  position: absolute;
+}
+.pantalla-plandeahorro-text07 {
+  top: 251px;
+  left: 267px;
+  color: rgba(0, 0, 0, 1);
+  width: 288px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-plandeahorro-text09 {
+  top: 301px;
+  left: 250px;
+  color: rgba(0, 0, 0, 1);
+  width: 328px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-plandeahorro-rectangle23 {
+  top: 240px;
+  left: 91px;
+  width: 502px;
+  height: 144px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+}
+.pantalla-plandeahorro-rectangle24 {
+  top: 240px;
+  left: 91px;
+  width: 151px;
+  height: 144px;
+  position: absolute;
+  border-radius: 5px 0 0 5px;
+}
+.pantalla-plandeahorro-line6 {
+  top: 281px;
+  left: 242px;
+  width: 347px;
+  height: 1px;
+  position: absolute;
+}
+.pantalla-plandeahorro-text11 {
+  top: 498px;
+  left: 588px;
+  color: rgba(0, 0, 0, 1);
+  width: 237px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-plandeahorro-text13 {
+  top: 552px;
+  left: 559px;
+  color: rgba(0, 0, 0, 1);
+  width: 328px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-plandeahorro-rectangle25 {
+  top: 489px;
+  left: 400px;
+  width: 502px;
+  height: 145px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+}
+.pantalla-plandeahorro-rectangle26 {
+  top: 489px;
+  left: 400px;
+  width: 151px;
+  height: 145px;
+  position: absolute;
+  border-radius: 5px 0 0 5px;
+}
+.pantalla-plandeahorro-line7 {
+  top: 530px;
+  left: 551px;
+  width: 347px;
+  height: 1px;
+  position: absolute;
+}
+.pantalla-plandeahorro-meta1 {
+  top: 256px;
+  left: 776px;
+  width: 84px;
+  height: 114px;
+  position: absolute;
+}
+.pantalla-plandeahorro-ahorro1 {
+  top: 256px;
+  left: 124px;
+  width: 84px;
+  height: 114px;
+  position: absolute;
+}
+.pantalla-plandeahorro-tiempo1 {
+  top: 505px;
+  left: 433px;
+  width: 84px;
+  height: 114px;
+  position: absolute;
+}
+.pantalla-plandeahorro-rectangle1button {
+  top: 721px;
+  left: 560px;
+  width: 300px;
+  height: 80px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+}
+.pantalla-plandeahorro-text15 {
+  top: 747px;
+  left: 665px;
+  color: rgba(0, 0, 0, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-plandeahorro-rectangle6 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 90px;
+  position: absolute;
+}
+.pantalla-plandeahorro-user {
+  top: 0px;
+  left: 1350px;
+  width: 40px;
+  height: 90px;
+  position: absolute;
+}
+.pantalla-plandeahorro-diseosinttulo12 {
+  top: 20px;
+  left: 14px;
+  width: 77px;
+  height: 50px;
+  position: absolute;
+}
+.pantalla-plandeahorro-text17 {
+  top: 32px;
+  left: 340px;
+  color: rgba(255, 255, 255, 1);
+  width: 251px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-plandeahorro-home-page {
+  top: 19px;
+  left: 1180px;
+  width: 30px;
+  height: 56px;
+  position: absolute;
+}
+.pantalla-plandeahorro-vector {
+  top: 22px;
+  left: 935px;
+  width: 30px;
+  height: 40px;
+  position: absolute;
+}
+.pantalla-plandeahorro-alarm {
+  top: 16px;
+  left: 1048px;
+  width: 30px;
+  height: 51px;
+  position: absolute;
+}
+.pantalla-plandeahorro-rectangle55 {
+  top: 1371.461669921875px;
+  left: 1190.013427734375px;
+  width: 334px;
+  height: 844px;
+  position: absolute;
+}

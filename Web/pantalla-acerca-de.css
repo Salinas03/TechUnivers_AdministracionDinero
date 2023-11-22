@@ -1,0 +1,149 @@
+.pantalla-acerca-de-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pantalla-acerca-de-pantalla-acerca-de {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pantalla-acerca-de-rectangle7 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 90px;
+  position: absolute;
+}
+.pantalla-acerca-de-diseosinttulo2 {
+  top: 140px;
+  left: 720px;
+  width: 720px;
+  height: 256px;
+  position: absolute;
+}
+.pantalla-acerca-de-text {
+  top: 30px;
+  left: 1218px;
+  color: rgba(255, 255, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-acerca-de-text02 {
+  top: 30px;
+  left: 1048px;
+  color: rgba(255, 255, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-acerca-de-text04 {
+  top: 30px;
+  left: 848px;
+  color: rgba(255, 255, 255, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-acerca-de-diseosinttulo12button {
+  top: 20px;
+  left: 14px;
+  width: 77px;
+  height: 50px;
+  position: absolute;
+}
+.pantalla-acerca-de-rectangle27 {
+  top: 220px;
+  left: 91px;
+  width: 653px;
+  height: 135px;
+  position: absolute;
+  border-radius: 35px;
+}
+.pantalla-acerca-de-rectangle28 {
+  top: 396px;
+  left: 91px;
+  width: 629px;
+  height: 382px;
+  position: absolute;
+  border-radius: 5px 65px;
+}
+.pantalla-acerca-de-text06 {
+  top: 446px;
+  left: 142px;
+  color: rgba(255, 255, 255, 1);
+  width: 535px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-acerca-de-text17 {
+  top: 261px;
+  left: 221px;
+  color: rgba(255, 255, 255, 1);
+  width: 484px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-acerca-de-image21 {
+  top: 552px;
+  left: 762px;
+  width: 678px;
+  height: 473px;
+  position: absolute;
+}
+.pantalla-acerca-de-image22 {
+  top: 250px;
+  left: 136px;
+  width: 114px;
+  height: 78px;
+  position: absolute;
+}
