@@ -1,0 +1,616 @@
+.pantalla-gastos-hormiga-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pantalla-gastos-hormiga-pantalla-gastos-hormiga {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pantalla-gastos-hormiga-rectangle36 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 90px;
+  position: absolute;
+}
+.pantalla-gastos-hormiga-text {
+  top: 30px;
+  left: 1218px;
+  color: rgba(255, 255, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-hormiga-text02 {
+  top: 30px;
+  left: 1048px;
+  color: rgba(255, 255, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-hormiga-text04 {
+  top: 30px;
+  left: 848px;
+  color: rgba(255, 255, 255, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-hormiga-diseosinttulo15button {
+  top: 20px;
+  left: 14px;
+  width: 77px;
+  height: 50px;
+  position: absolute;
+}
+.pantalla-gastos-hormiga-diseosinttulo3svg {
+  top: 253px;
+  left: 766px;
+  width: 733px;
+  height: 259px;
+  position: absolute;
+}
+.pantalla-gastos-hormiga-text06 {
+  top: 362px;
+  left: 353px;
+  color: rgba(0, 0, 0, 1);
+  width: 569px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-hormiga-text08 {
+  top: 583px;
+  left: 615px;
+  color: rgba(0, 0, 0, 1);
+  width: 123px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-hormiga-text10 {
+  top: 447px;
+  left: 181px;
+  color: rgba(255, 255, 255, 1);
+  width: 194px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-hormiga-rectangle48button {
+  top: 437px;
+  left: 508px;
+  width: 197px;
+  height: 47px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 20px;
+}
+.pantalla-gastos-hormiga-text12 {
+  top: 450px;
+  left: 511px;
+  color: rgba(255, 255, 255, 1);
+  width: 194px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-hormiga-rectangle49button {
+  top: 437px;
+  left: 181px;
+  width: 197px;
+  height: 47px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 20px;
+}
+.pantalla-gastos-hormiga-text14 {
+  top: 444px;
+  left: 181px;
+  color: rgba(255, 255, 255, 1);
+  width: 194px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-hormiga-rectangle11button {
+  top: 631px;
+  left: 132px;
+  width: 39px;
+  height: 34px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+}
+.pantalla-gastos-hormiga-text16 {
+  top: 638px;
+  left: 201px;
+  color: rgba(0, 0, 0, 1);
+  width: 122px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-hormiga-rectangle35button {
+  top: 685px;
+  left: 132px;
+  width: 39px;
+  height: 33px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+}
+.pantalla-gastos-hormiga-text18 {
+  top: 691px;
+  left: 201px;
+  color: rgba(0, 0, 0, 1);
+  width: 110px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-hormiga-rectangle37button {
+  top: 783px;
+  left: 132px;
+  width: 39px;
+  height: 33px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+}
+.pantalla-gastos-hormiga-text20 {
+  top: 790px;
+  left: 201px;
+  color: rgba(0, 0, 0, 1);
+  width: 81px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-hormiga-rectangle39button {
+  top: 833px;
+  left: 132px;
+  width: 39px;
+  height: 33px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+}
+.pantalla-gastos-hormiga-text22 {
+  top: 840px;
+  left: 201px;
+  color: rgba(0, 0, 0, 1);
+  width: 142px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-hormiga-rectangle40button {
+  top: 881px;
+  left: 132px;
+  width: 39px;
+  height: 34px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+}
+.pantalla-gastos-hormiga-text24 {
+  top: 888px;
+  left: 201px;
+  color: rgba(0, 0, 0, 1);
+  width: 77px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-hormiga-rectangle38button {
+  top: 735px;
+  left: 132px;
+  width: 39px;
+  height: 33px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+}
+.pantalla-gastos-hormiga-text26 {
+  top: 741px;
+  left: 201px;
+  color: rgba(0, 0, 0, 1);
+  width: 146px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-hormiga-text28 {
+  top: 618px;
+  left: 607px;
+  color: rgba(255, 255, 255, 1);
+  width: 61px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-hormiga-text30 {
+  top: 621px;
+  left: 711px;
+  color: rgba(255, 255, 255, 1);
+  width: 61px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-hormiga-text32 {
+  top: 621px;
+  left: 607px;
+  color: rgba(255, 255, 255, 1);
+  width: 61px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-hormiga-rectangle34input {
+  top: 626px;
+  left: 580px;
+  width: 174px;
+  height: 32px;
+  position: absolute;
+  border-radius: 5px;
+}
+.pantalla-gastos-hormiga-text34 {
+  top: 633px;
+  left: 588px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 6px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-hormiga-rectangle41input {
+  top: 670px;
+  left: 580px;
+  width: 174px;
+  height: 31px;
+  position: absolute;
+  border-radius: 5px;
+}
+.pantalla-gastos-hormiga-text35 {
+  top: 676px;
+  left: 588px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 6px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-hormiga-rectangle42input {
+  top: 720px;
+  left: 580px;
+  width: 174px;
+  height: 31px;
+  position: absolute;
+  border-radius: 5px;
+}
+.pantalla-gastos-hormiga-text36 {
+  top: 726px;
+  left: 588px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 6px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-hormiga-rectangle43input {
+  top: 773px;
+  left: 580px;
+  width: 174px;
+  height: 32px;
+  position: absolute;
+  border-radius: 5px;
+}
+.pantalla-gastos-hormiga-text37 {
+  top: 780px;
+  left: 588px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 6px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-hormiga-rectangle44input {
+  top: 823px;
+  left: 580px;
+  width: 174px;
+  height: 32px;
+  position: absolute;
+  border-radius: 5px;
+}
+.pantalla-gastos-hormiga-text38 {
+  top: 830px;
+  left: 588px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 6px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-hormiga-rectangle45input {
+  top: 876px;
+  left: 580px;
+  width: 174px;
+  height: 32px;
+  position: absolute;
+  border-radius: 5px;
+}
+.pantalla-gastos-hormiga-text39 {
+  top: 883px;
+  left: 588px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 6px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-hormiga-rectangle46input {
+  top: 955px;
+  left: 152px;
+  width: 602px;
+  height: 32px;
+  position: absolute;
+  border-radius: 5px;
+}
+.pantalla-gastos-hormiga-text40 {
+  top: 960px;
+  left: 159px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 419px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-hormiga-text42 {
+  top: 227px;
+  left: 410px;
+  color: rgba(0, 0, 0, 1);
+  width: 211px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-gastos-hormiga-rectangle57 {
+  top: 156px;
+  left: 181px;
+  width: 472px;
+  height: 153px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+}
+.pantalla-gastos-hormiga-rectangle58 {
+  top: 156px;
+  left: 181px;
+  width: 142px;
+  height: 153px;
+  position: absolute;
+  border-radius: 5px 0 0 5px;
+}
+.pantalla-gastos-hormiga-ahorro6 {
+  top: 173px;
+  left: 211px;
+  width: 80px;
+  height: 121px;
+  position: absolute;
+}
+.pantalla-gastos-hormiga-rectangle55 {
+  top: 1424.461669921875px;
+  left: 1153.013427734375px;
+  width: 334px;
+  height: 844px;
+  position: absolute;
+}

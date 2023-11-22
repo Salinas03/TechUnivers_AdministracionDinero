@@ -1,0 +1,241 @@
+.pantalla-plan-ahorrototales-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pantalla-plan-ahorrototales-pantalla-plan-ahorrototales {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pantalla-plan-ahorrototales-rectangle26button {
+  top: 369px;
+  left: 380px;
+  width: 417px;
+  height: 59px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 0.5);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 15px;
+}
+.pantalla-plan-ahorrototales-rectangle27button {
+  top: 755px;
+  left: 437px;
+  width: 314px;
+  height: 40px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 15px;
+}
+.pantalla-plan-ahorrototales-text {
+  top: 229px;
+  left: 379px;
+  color: rgba(0, 0, 0, 1);
+  width: 417px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-plan-ahorrototales-text02 {
+  top: 390px;
+  left: 472px;
+  color: rgba(0, 0, 0, 1);
+  width: 243px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-plan-ahorrototales-text04 {
+  top: 766px;
+  left: 473px;
+  color: rgba(255, 255, 255, 1);
+  width: 243px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-plan-ahorrototales-text06 {
+  top: 469px;
+  left: 472px;
+  color: rgba(0, 0, 0, 1);
+  width: 243px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-plan-ahorrototales-rectangle28button {
+  top: 448px;
+  left: 380px;
+  width: 417px;
+  height: 58px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 15px;
+}
+.pantalla-plan-ahorrototales-text08 {
+  top: 547px;
+  left: 472px;
+  color: rgba(0, 0, 0, 1);
+  width: 243px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-plan-ahorrototales-rectangle29button {
+  top: 526px;
+  left: 380px;
+  width: 417px;
+  height: 58px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 15px;
+}
+.pantalla-plan-ahorrototales-text10 {
+  top: 625px;
+  left: 472px;
+  color: rgba(0, 0, 0, 1);
+  width: 243px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-plan-ahorrototales-rectangle30button {
+  top: 604px;
+  left: 380px;
+  width: 417px;
+  height: 58px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 15px;
+}
+.pantalla-plan-ahorrototales-rectangle56 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 90px;
+  position: absolute;
+}
+.pantalla-plan-ahorrototales-user {
+  top: 0px;
+  left: 1350px;
+  width: 40px;
+  height: 90px;
+  position: absolute;
+}
+.pantalla-plan-ahorrototales-diseosinttulo13button {
+  top: 20px;
+  left: 11px;
+  width: 77px;
+  height: 50px;
+  position: absolute;
+}
+.pantalla-plan-ahorrototales-text12 {
+  top: 32px;
+  left: 337px;
+  color: rgba(255, 255, 255, 1);
+  width: 251px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-plan-ahorrototales-home-pagebutton {
+  top: 19px;
+  left: 1180px;
+  width: 30px;
+  height: 56px;
+  position: absolute;
+}
+.pantalla-plan-ahorrototales-vectorbutton {
+  top: 22px;
+  left: 932px;
+  width: 30px;
+  height: 40px;
+  position: absolute;
+}
+.pantalla-plan-ahorrototales-alarmbutton {
+  top: 16px;
+  left: 1045px;
+  width: 30px;
+  height: 51px;
+  position: absolute;
+}
+.pantalla-plan-ahorrototales-rectangle54 {
+  top: 846.3817138671875px;
+  left: -281.2283935546875px;
+  width: 293px;
+  height: 1054px;
+  position: absolute;
+}
+.pantalla-plan-ahorrototales-savingmoneywithpiggybankandcash {
+  top: 284px;
+  left: 932px;
+  width: 456px;
+  height: 456px;
+  position: absolute;
+}

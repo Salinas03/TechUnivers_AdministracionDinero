@@ -1,0 +1,181 @@
+.pantalla-terminosy-condiciones-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pantalla-terminosy-condiciones-pantalla-terminosy-condiciones {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pantalla-terminosy-condiciones-rectangle7 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 90px;
+  position: absolute;
+}
+.pantalla-terminosy-condiciones-diseosinttulo2 {
+  top: 140px;
+  left: 720px;
+  width: 720px;
+  height: 256px;
+  position: absolute;
+}
+.pantalla-terminosy-condiciones-text {
+  top: 30px;
+  left: 1218px;
+  color: rgba(255, 255, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-terminosy-condiciones-text02 {
+  top: 30px;
+  left: 1048px;
+  color: rgba(255, 255, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-terminosy-condiciones-text04 {
+  top: 30px;
+  left: 848px;
+  color: rgba(255, 255, 255, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-terminosy-condiciones-diseosinttulo12button {
+  top: 20px;
+  left: 14px;
+  width: 77px;
+  height: 50px;
+  position: absolute;
+}
+.pantalla-terminosy-condiciones-rectangle27 {
+  top: 220px;
+  left: 91px;
+  width: 653px;
+  height: 135px;
+  position: absolute;
+  border-radius: 35px;
+}
+.pantalla-terminosy-condiciones-rectangle28 {
+  top: 396px;
+  left: 91px;
+  width: 1274px;
+  height: 595px;
+  position: absolute;
+  border-radius: 5px 65px;
+}
+.pantalla-terminosy-condiciones-text06 {
+  top: 847px;
+  left: 630px;
+  color: rgba(255, 255, 255, 1);
+  width: 236px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-terminosy-condiciones-text07 {
+  font-weight: 400;
+}
+.pantalla-terminosy-condiciones-text13 {
+  font-weight: 700;
+}
+.pantalla-terminosy-condiciones-rectangle2button {
+  top: 904px;
+  left: 650px;
+  width: 188px;
+  height: 72px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 20px;
+}
+.pantalla-terminosy-condiciones-text21 {
+  top: 446px;
+  left: 100px;
+  color: rgba(255, 255, 255, 1);
+  width: 1238px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-terminosy-condiciones-text22 {
+  font-weight: 400;
+}
+.pantalla-terminosy-condiciones-text28 {
+  font-weight: 700;
+}
+.pantalla-terminosy-condiciones-text47 {
+  top: 261px;
+  left: 221px;
+  color: rgba(255, 255, 255, 1);
+  width: 484px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-terminosy-condiciones-contacts {
+  top: 237px;
+  left: 101px;
+  width: 148px;
+  height: 100px;
+  position: absolute;
+}

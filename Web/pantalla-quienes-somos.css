@@ -1,0 +1,149 @@
+.pantalla-quienes-somos-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pantalla-quienes-somos-pantalla-quienes-somos {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pantalla-quienes-somos-rectangle7 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 90px;
+  position: absolute;
+}
+.pantalla-quienes-somos-diseosinttulo2 {
+  top: 178px;
+  left: -70px;
+  width: 720px;
+  height: 256px;
+  position: absolute;
+}
+.pantalla-quienes-somos-text {
+  top: 30px;
+  left: 1218px;
+  color: rgba(255, 255, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-quienes-somos-text02 {
+  top: 30px;
+  left: 1048px;
+  color: rgba(255, 255, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-quienes-somos-text04 {
+  top: 30px;
+  left: 848px;
+  color: rgba(255, 255, 255, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-quienes-somos-diseosinttulo12button {
+  top: 20px;
+  left: 14px;
+  width: 77px;
+  height: 50px;
+  position: absolute;
+}
+.pantalla-quienes-somos-rectangle27 {
+  top: 204px;
+  left: 650px;
+  width: 653px;
+  height: 135px;
+  position: absolute;
+  border-radius: 35px;
+}
+.pantalla-quienes-somos-rectangle28 {
+  top: 380px;
+  left: 650px;
+  width: 653px;
+  height: 475px;
+  position: absolute;
+  border-radius: 5px 65px;
+}
+.pantalla-quienes-somos-text06 {
+  top: 435px;
+  left: 709px;
+  color: rgba(255, 255, 255, 1);
+  width: 535px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-quienes-somos-text13 {
+  top: 242px;
+  left: 848px;
+  color: rgba(255, 255, 255, 1);
+  width: 345px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-quienes-somos-ask-question {
+  top: 212px;
+  left: 697px;
+  width: 125px;
+  height: 107px;
+  position: absolute;
+}
+.pantalla-quienes-somos-image20 {
+  top: 662px;
+  left: 0px;
+  width: 561px;
+  height: 448px;
+  position: absolute;
+}

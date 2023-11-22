@@ -1,0 +1,241 @@
+.pantalla-regristrodecuentaconotrometodo-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pantalla-regristrodecuentaconotrometodo-pantalla-regristrodecuentaconotrometodo {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pantalla-regristrodecuentaconotrometodo-rectangle2 {
+  top: 340px;
+  left: 200px;
+  width: 227px;
+  height: 65px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 20px;
+}
+.pantalla-regristrodecuentaconotrometodo-text {
+  top: 360px;
+  left: 232px;
+  color: rgba(255, 255, 255, 1);
+  width: 175px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-regristrodecuentaconotrometodo-text02 {
+  top: 512px;
+  left: 261px;
+  color: rgba(255, 255, 255, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-regristrodecuentaconotrometodo-image8 {
+  top: 599px;
+  left: 410px;
+  width: 54px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.pantalla-regristrodecuentaconotrometodo-image6 {
+  top: 594px;
+  left: 175px;
+  width: 54px;
+  height: 49px;
+  position: absolute;
+  border-radius: 5px;
+}
+.pantalla-regristrodecuentaconotrometodo-image7 {
+  top: 594px;
+  left: 293px;
+  width: 53px;
+  height: 46px;
+  position: absolute;
+  border-radius: 5px;
+}
+.pantalla-regristrodecuentaconotrometodo-rectangle6 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 90px;
+  position: absolute;
+}
+.pantalla-regristrodecuentaconotrometodo-text04 {
+  top: 30px;
+  left: 1218px;
+  color: rgba(255, 255, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-regristrodecuentaconotrometodo-text06 {
+  top: 30px;
+  left: 1048px;
+  color: rgba(255, 255, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-regristrodecuentaconotrometodo-text08 {
+  top: 30px;
+  left: 848px;
+  color: rgba(255, 255, 255, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-regristrodecuentaconotrometodo-diseosinttulo12 {
+  top: 20px;
+  left: 14px;
+  width: 77px;
+  height: 50px;
+  position: absolute;
+}
+.pantalla-regristrodecuentaconotrometodo-diseosinttulo2 {
+  top: 360px;
+  left: 655px;
+  width: 733px;
+  height: 259px;
+  position: absolute;
+}
+.pantalla-regristrodecuentaconotrometodo-rectangle38 {
+  top: 686px;
+  left: 1518.9713134765625px;
+  width: 297px;
+  height: 1027px;
+  position: absolute;
+}
+.pantalla-regristrodecuentaconotrometodo-rectangle39 {
+  top: -377.742431640625px;
+  left: 1223.62451171875px;
+  width: 690px;
+  height: 1646px;
+  position: absolute;
+}
+.pantalla-regristrodecuentaconotrometodo-rectangle61 {
+  top: 184px;
+  left: 86px;
+  width: 467px;
+  height: 638px;
+  position: absolute;
+  border-radius: 60px;
+}
+.pantalla-regristrodecuentaconotrometodo-rectangle40 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+}
+.pantalla-regristrodecuentaconotrometodo-text10 {
+  top: 503px;
+  left: 216px;
+  color: rgba(0, 0, 0, 1);
+  width: 191px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-regristrodecuentaconotrometodo-rectangle67 {
+  top: 103px;
+  left: 368px;
+  width: 700px;
+  height: 800px;
+  position: absolute;
+  border-radius: 30px;
+}
+.pantalla-regristrodecuentaconotrometodo-rectangle60 {
+  top: 304px;
+  left: 600px;
+  width: 241px;
+  height: 275px;
+  position: absolute;
+  border-radius: 30px;
+}
+.pantalla-regristrodecuentaconotrometodo-rectangle671 {
+  top: 722px;
+  left: 633px;
+  width: 175px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 20px;
+}
+.pantalla-regristrodecuentaconotrometodo-text12 {
+  top: 737px;
+  left: 672px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

@@ -1,0 +1,356 @@
+.pantalla-sueldo-variable-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pantalla-sueldo-variable-pantalla-sueldo-variable {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pantalla-sueldo-variable-rectangle38 {
+  top: 854.3865966796875px;
+  left: -230px;
+  width: 297px;
+  height: 1027px;
+  position: absolute;
+}
+.pantalla-sueldo-variable-text {
+  top: 341px;
+  left: 936px;
+  color: rgba(0, 0, 0, 1);
+  width: 414px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldo-variable-text02 {
+  top: 489px;
+  left: 942px;
+  color: rgba(0, 0, 0, 1);
+  width: 414px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldo-variable-text04 {
+  top: 822px;
+  left: 770px;
+  color: rgba(0, 0, 0, 1);
+  width: 414px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldo-variable-text06 {
+  top: 699px;
+  left: 801px;
+  color: rgba(0, 0, 0, 1);
+  width: 414px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldo-variable-rectangle39 {
+  top: 551px;
+  left: 735px;
+  width: 298px;
+  height: 69px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 20px;
+}
+.pantalla-sueldo-variable-text08 {
+  top: 566px;
+  left: 815px;
+  color: rgba(255, 255, 255, 1);
+  width: 192px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldo-variable-rectangle40 {
+  top: 551px;
+  left: 735px;
+  width: 298px;
+  height: 69px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 20px;
+}
+.pantalla-sueldo-variable-text10 {
+  top: 703px;
+  left: 945px;
+  color: rgba(255, 255, 255, 1);
+  width: 127px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldo-variable-rectangle41 {
+  top: 551px;
+  left: 1063px;
+  width: 298px;
+  height: 69px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 20px;
+}
+.pantalla-sueldo-variable-text12 {
+  top: 574px;
+  left: 1116px;
+  color: rgba(255, 255, 255, 1);
+  width: 192px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldo-variable-text14 {
+  top: 577px;
+  left: 784px;
+  color: rgba(255, 255, 255, 1);
+  width: 192px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldo-variable-rectangle42 {
+  top: 676px;
+  left: 892px;
+  width: 298px;
+  height: 69px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 20px;
+}
+.pantalla-sueldo-variable-text16 {
+  top: 697px;
+  left: 945px;
+  color: rgba(255, 255, 255, 1);
+  width: 192px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldo-variable-rectangle43 {
+  top: 385px;
+  left: 735px;
+  width: 546px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.pantalla-sueldo-variable-rectangle44 {
+  top: 884px;
+  left: 760px;
+  width: 546px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.pantalla-sueldo-variable-text18 {
+  top: 891px;
+  left: 767px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 26px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldo-variable-text19 {
+  top: 232px;
+  left: 1030px;
+  color: rgba(0, 0, 0, 1);
+  width: 211px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldo-variable-rectangle48 {
+  top: 161px;
+  left: 801px;
+  width: 472px;
+  height: 153px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+}
+.pantalla-sueldo-variable-rectangle49 {
+  top: 161px;
+  left: 801px;
+  width: 142px;
+  height: 153px;
+  position: absolute;
+  border-radius: 5px 0 0 5px;
+}
+.pantalla-sueldo-variable-ahorro2 {
+  top: 178px;
+  left: 831px;
+  width: 80px;
+  height: 121px;
+  position: absolute;
+}
+.pantalla-sueldo-variable-rectangle35 {
+  top: -4px;
+  left: 0px;
+  width: 1440px;
+  height: 90px;
+  position: absolute;
+}
+.pantalla-sueldo-variable-text21 {
+  top: 30px;
+  left: 1218px;
+  color: rgba(255, 255, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldo-variable-text23 {
+  top: 30px;
+  left: 1048px;
+  color: rgba(255, 255, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldo-variable-text25 {
+  top: 30px;
+  left: 848px;
+  color: rgba(255, 255, 255, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldo-variable-diseosinttulo14 {
+  top: 20px;
+  left: 14px;
+  width: 77px;
+  height: 50px;
+  position: absolute;
+}
+.pantalla-sueldo-variable-diseosinttulo3 {
+  top: 185px;
+  left: -58px;
+  width: 733px;
+  height: 259px;
+  position: absolute;
+}

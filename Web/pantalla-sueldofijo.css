@@ -1,0 +1,402 @@
+.pantalla-sueldofijo-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pantalla-sueldofijo-pantalla-sueldofijo {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pantalla-sueldofijo-rectangle7 {
+  top: 880.7114868164062px;
+  left: -244px;
+  width: 297px;
+  height: 1027px;
+  position: absolute;
+}
+.pantalla-sueldofijo-text {
+  top: 343px;
+  left: 827px;
+  color: rgba(0, 0, 0, 1);
+  width: 414px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldofijo-text02 {
+  top: 687px;
+  left: 918px;
+  color: rgba(0, 0, 0, 1);
+  width: 414px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldofijo-text04 {
+  top: 578px;
+  left: 789px;
+  color: rgba(0, 0, 0, 1);
+  width: 414px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldofijo-rectangle2 {
+  top: 444px;
+  left: 709px;
+  width: 298px;
+  height: 69px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 20px;
+}
+.pantalla-sueldofijo-text06 {
+  top: 876px;
+  left: 775px;
+  color: rgba(0, 0, 0, 1);
+  width: 459px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldofijo-text08 {
+  top: 459px;
+  left: 789px;
+  color: rgba(255, 255, 255, 1);
+  width: 192px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldofijo-rectangle31button {
+  top: 444px;
+  left: 709px;
+  width: 298px;
+  height: 69px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 20px;
+}
+.pantalla-sueldofijo-text10 {
+  top: 582px;
+  left: 933px;
+  color: rgba(255, 255, 255, 1);
+  width: 127px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldofijo-rectangle29button {
+  top: 444px;
+  left: 1087px;
+  width: 298px;
+  height: 69px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 20px;
+}
+.pantalla-sueldofijo-text12 {
+  top: 467px;
+  left: 1140px;
+  color: rgba(255, 255, 255, 1);
+  width: 192px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldofijo-text14 {
+  top: 470px;
+  left: 758px;
+  color: rgba(255, 255, 255, 1);
+  width: 192px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldofijo-rectangle30button {
+  top: 555px;
+  left: 880px;
+  width: 298px;
+  height: 69px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 20px;
+}
+.pantalla-sueldofijo-text16 {
+  top: 576px;
+  left: 933px;
+  color: rgba(255, 255, 255, 1);
+  width: 192px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldofijo-rectangle37button {
+  top: 939px;
+  left: 757px;
+  width: 546px;
+  height: 42px;
+  position: absolute;
+  border-radius: 5px;
+}
+.pantalla-sueldofijo-rectangle35button {
+  top: 743px;
+  left: 1064px;
+  width: 170px;
+  height: 62px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 20px;
+}
+.pantalla-sueldofijo-text18 {
+  top: 764px;
+  left: 1067px;
+  color: rgba(255, 255, 255, 1);
+  width: 167px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldofijo-rectangle52button {
+  top: 744px;
+  left: 823px;
+  width: 170px;
+  height: 62px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 20px;
+}
+.pantalla-sueldofijo-text20 {
+  top: 765px;
+  left: 826px;
+  color: rgba(255, 255, 255, 1);
+  width: 167px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldofijo-rectangle35 {
+  top: -5px;
+  left: -12px;
+  width: 1457px;
+  height: 90px;
+  position: absolute;
+}
+.pantalla-sueldofijo-text22 {
+  top: 30px;
+  left: 1217px;
+  color: rgba(255, 255, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldofijo-text24 {
+  top: 30px;
+  left: 1047px;
+  color: rgba(255, 255, 255, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldofijo-text26 {
+  top: 30px;
+  left: 847px;
+  color: rgba(255, 255, 255, 1);
+  width: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldofijo-diseosinttulo14button {
+  top: 20px;
+  left: 13px;
+  width: 77px;
+  height: 50px;
+  position: absolute;
+}
+.pantalla-sueldofijo-text28 {
+  top: 230px;
+  left: 1027px;
+  color: rgba(0, 0, 0, 1);
+  width: 211px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldofijo-rectangle50 {
+  top: 159px;
+  left: 798px;
+  width: 472px;
+  height: 153px;
+  position: absolute;
+  border-color: rgba(2, 97, 8, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+}
+.pantalla-sueldofijo-rectangle51 {
+  top: 159px;
+  left: 798px;
+  width: 142px;
+  height: 153px;
+  position: absolute;
+  border-radius: 5px 0 0 5px;
+}
+.pantalla-sueldofijo-ahorro3 {
+  top: 176px;
+  left: 828px;
+  width: 80px;
+  height: 121px;
+  position: absolute;
+}
+.pantalla-sueldofijo-text30 {
+  top: 949px;
+  left: 765px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pantalla-sueldofijo-diseosinttulo4 {
+  top: 183px;
+  left: -24px;
+  width: 733px;
+  height: 259px;
+  position: absolute;
+}
